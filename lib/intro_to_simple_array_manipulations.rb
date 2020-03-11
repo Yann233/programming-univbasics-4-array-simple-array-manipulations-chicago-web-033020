@@ -52,7 +52,7 @@ def using_uniq(array)
   array.uniq()
 end
 
-#This method takes in an parameter of an Array that contains other arrays 
+#This method takes in an parameter of an Array that contains other arrays
 #and uses the .flatten method to return an array of strings.
 def using_flatten(array)
   array.flatten()
