@@ -20,3 +20,4 @@ end
 #with an parameter of 2 to remove the last two array items and return them.
 def pop_with_args(array)
   array=array.pop(2)
+end
