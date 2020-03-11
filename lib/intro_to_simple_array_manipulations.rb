@@ -37,5 +37,5 @@ end
 #This method takes in two parameters of two different arrays and uses the .concat method
 #to add the contents of the second array to the first.
 def  using_concat(array1,array2)
-str.concat(array1,array2)
+array1.concat(array2)
 end
