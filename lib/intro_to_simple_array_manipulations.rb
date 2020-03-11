@@ -57,3 +57,15 @@ end
 def using_flatten(array)
   array.flatten()
 end
+
+#This method takes in two parameters, an Array and a String,
+#and uses the .delete method to remove any items from the array
+#that are equal to that string.
+def using_delete(array,string)
+  array.delete(string)
+end
+
+
+#This method takes in two parameters, an Array and an Integer
+#and deletes the element at the index of the array that is equal to that integer.
+#def using_delete_a
