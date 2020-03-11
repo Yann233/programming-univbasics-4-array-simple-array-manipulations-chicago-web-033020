@@ -4,7 +4,7 @@ def using_push(array, string)
   array.push(string)
 end
 
-#This method takes in two parameters, an Array and a String and adds that string 
+#This method takes in two parameters, an Array and a String and adds that string
 #to the front of the array using the .unshift method.
 def using_unshift(array,string)
   array.unshift(string)
